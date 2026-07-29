@@ -1,0 +1,10 @@
+# 训练默认配置
+batch_size: 32
+epochs: 10
+learning_rate: 0.001
+
+# 模型参数
+model:
+  input_dim: 784
+  hidden_dim: 256
+  output_dim: 10
